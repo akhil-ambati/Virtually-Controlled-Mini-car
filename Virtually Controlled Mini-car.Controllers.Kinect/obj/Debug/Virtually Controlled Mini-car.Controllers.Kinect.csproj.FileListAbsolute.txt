@@ -1,0 +1,118 @@
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\CakeRobot.Controllers.Kinect.exe.config
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\CakeRobot.Controllers.Kinect.exe
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\CakeRobot.Controllers.Kinect.pdb
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\CakeRobot.Portable.dll
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\Kinect.Toolbox.dll
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\CakeRobot.Portable.pdb
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.csprojResolveAssemblyReference.cache
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\MainWindow.baml
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\MainWindow.g.cs
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\App.g.cs
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect_Content.g.cs
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect_MarkupCompile.cache
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect.g.resources
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect.Properties.Resources.resources
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.csproj.GenerateResource.Cache
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect.exe
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect.pdb
+C:\Users\akhil\Downloads\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\bin\Debug\CakeRobot.Controllers.Kinect.exe.config
+C:\Users\akhil\Downloads\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect.exe
+C:\Users\akhil\Downloads\Virtually Controlled Mini-car\CakeRobot.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect.pdb
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\CakeRobot.Controllers.Kinect.exe.config
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect.exe
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect.pdb
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\CakeRobot.Controllers.Kinect.exe
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\CakeRobot.Controllers.Kinect.pdb
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\CakeRobot.Portable.dll
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Kinect.Toolbox.dll
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\CakeRobot.Portable.pdb
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.csprojResolveAssemblyReference.cache
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\MainWindow.baml
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\MainWindow.g.cs
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\App.g.cs
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect_Content.g.cs
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect_MarkupCompile.cache
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect.g.resources
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\CakeRobot.Controllers.Kinect.Properties.Resources.resources
+C:\Users\akhil\Desktop\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.csproj.GenerateResource.Cache
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe.config
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.csprojResolveAssemblyReference.cache
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\MainWindow.baml
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\MainWindow.g.cs
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\App.g.cs
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect_Content.g.cs
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect_MarkupCompile.cache
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.g.resources
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\VirtuallyControlledMinicar.Controllers.Kinect.Properties.Resources.resources
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.csproj.GenerateResource.Cache
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlled Mini-car.Controllers.Kinect.pdb
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\CakeRobot.Portable.dll
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\InTheHand.Net.Personal.dll
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Kinect.Toolbox.dll
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Kinect.Toolbox.Voice.dll
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Microsoft.Kinect.dll
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\CakeRobot.Portable.pdb
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\InTheHand.Net.Personal.xml
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Microsoft.Kinect.xml
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe
+G:\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.pdb
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe.config
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlled Mini-car.Controllers.Kinect.pdb
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\CakeRobot.Portable.dll
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\InTheHand.Net.Personal.dll
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Kinect.Toolbox.dll
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Kinect.Toolbox.Voice.dll
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Microsoft.Kinect.dll
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\CakeRobot.Portable.pdb
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\InTheHand.Net.Personal.xml
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Microsoft.Kinect.xml
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.csprojResolveAssemblyReference.cache
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\MainWindow.baml
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\MainWindow.g.cs
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\App.g.cs
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect_Content.g.cs
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect_MarkupCompile.cache
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.g.resources
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\VirtuallyControlledMinicar.Controllers.Kinect.Properties.Resources.resources
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.csproj.GenerateResource.Cache
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe
+D:\IMP\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.pdb
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe.config
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.pdb
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlled Mini-car.Controllers.Kinect.pdb
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Kinect.Toolbox.dll
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlleed Mini-Car.Portable.dll
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlleed Mini-Car.Portable.pdb
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.csprojResolveAssemblyReference.cache
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\MainWindow.baml
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\MainWindow.g.cs
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\App.g.cs
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect_Content.g.cs
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect_MarkupCompile.cache
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.g.resources
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\VirtuallyControlledMinicar.Controllers.Kinect.Properties.Resources.resources
+C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.csproj.GenerateResource.Cache
