@@ -116,3 +116,9 @@ C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlle
 C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.g.resources
 C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\VirtuallyControlledMinicar.Controllers.Kinect.Properties.Resources.resources
 C:\Users\akhil\Desktop\project\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.csproj.GenerateResource.Cache
+D:\project_main\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe.config
+D:\project_main\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe
+D:\project_main\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.pdb
+C:\Users\akhil\Desktop\Virtually Controlled Mini-Car\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\bin\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe.config
+C:\Users\akhil\Desktop\Virtually Controlled Mini-Car\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.exe
+C:\Users\akhil\Desktop\Virtually Controlled Mini-Car\Virtually Controlled Mini-car\Virtually Controlled Mini-car.Controllers.Kinect\obj\Debug\Virtually Controlled Mini-car.Controllers.Kinect.pdb
